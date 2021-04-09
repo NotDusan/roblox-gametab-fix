@@ -4,7 +4,7 @@ A little project created by Dusan to solve his problem made open to the public.
 
 ## Script in action
 
-<iframe src="https://giphy.com/embed/abN4BjeLYby9VPvGTs" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/abN4BjeLYby9VPvGTs">via GIPHY</a></p>
+![](https://media.giphy.com/media/abN4BjeLYby9VPvGTs/giphy.gif)
 
 ## How to use
 
