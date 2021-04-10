@@ -28,6 +28,7 @@ let titles = document.getElementsByClassName("game-card-container")
 
 function main() {
     console.warn("This code ran " + timesItRan + " times.")
+    timesItRan++
     titles = document.getElementsByClassName("game-card-container")//get cards title in an array
      
     for (x=0; x < titles.length;){ //do it till there are titles in list
