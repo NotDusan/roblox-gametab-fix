@@ -1,5 +1,7 @@
 # Roblox Gametab Fix
 
+**This project is not working at the moment!**
+
 A little project created by Dusan to solve his problem made open to the public.
 
 ## Script in action
