@@ -1,8 +1,6 @@
 # Roblox Gametab Fix
 
-**This project is not working at the moment!**
-
-A little project created by Dusan to solve his problem made open to the public.
+After seeing how bad games on roblox got for anyone above the age of 6, I decided to make this project and open source it.
 
 ## Script in action
 
@@ -10,13 +8,11 @@ A little project created by Dusan to solve his problem made open to the public.
 
 ## How to use
 
-Just paste this script into the console of any of your gametabs. 
-
-Or use a browser extension to execute the script automatically.
+Just paste this script into the console of any of your gametabs. (Working on a browser extension for easier use.)
 
 ## How to get id-s
 
-Inspect element on a card and find the id of the parent. 
+Inspect element on a card and find id there. It will be named id and it's a number.
 
 
 
